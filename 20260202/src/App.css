@@ -1,0 +1,12 @@
+.app {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  border: 1px solid black;
+  margin: 15px auto;
+  padding: 15px;
+  width: 300px;
+  border-radius: 8px;
+}
